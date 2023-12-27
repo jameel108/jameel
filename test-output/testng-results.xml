@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-25T17:34:26 IST" name="Suite" finished-at="2023-12-25T17:34:49 IST" duration-ms="22488">
+    <groups>
+    </groups>
+    <test started-at="2023-12-25T17:34:26 IST" name="Test" finished-at="2023-12-25T17:34:49 IST" duration-ms="22488">
+      <class name="com.hrms.testscript.TC001">
+        <test-method signature="LoginLogout()[pri:0, instance:com.hrms.testscript.TC001@16610890]" started-at="2023-12-25T17:34:27 IST" name="LoginLogout" finished-at="2023-12-25T17:34:33 IST" duration-ms="6335" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginLogout -->
+      </class> <!-- com.hrms.testscript.TC001 -->
+      <class name="com.hrms.testscript.TC002">
+        <test-method signature="AddEmployee()[pri:0, instance:com.hrms.testscript.TC002@7e7be63f]" started-at="2023-12-25T17:34:33 IST" name="AddEmployee" finished-at="2023-12-25T17:34:38 IST" duration-ms="5377" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+      </class> <!-- com.hrms.testscript.TC002 -->
+      <class name="com.hrms.testscript.TC003">
+        <test-method signature="EditEmp()[pri:0, instance:com.hrms.testscript.TC003@6cd28fa7]" started-at="2023-12-25T17:34:38 IST" name="EditEmp" finished-at="2023-12-25T17:34:44 IST" duration-ms="5538" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditEmp -->
+      </class> <!-- com.hrms.testscript.TC003 -->
+      <class name="com.hrms.testscript.TC004">
+        <test-method signature="DeleteEmp()[pri:0, instance:com.hrms.testscript.TC004@614ca7df]" started-at="2023-12-25T17:34:44 IST" name="DeleteEmp" finished-at="2023-12-25T17:34:49 IST" duration-ms="5201" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteEmp -->
+      </class> <!-- com.hrms.testscript.TC004 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
